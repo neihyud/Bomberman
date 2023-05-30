@@ -1,5 +1,7 @@
 # Bài tập lớn OOP - Bomberman Game
 
+![image](https://github.com/neihyud/Bomberman/assets/74246327/3d9aa9bd-0131-44f0-a8f2-de0e0778329c)
+
 Trong bài tập lớn này, nhiệm vụ của bạn là viết một phiên bản Java mô phỏng lại trò chơi [Bomberman](https://www.youtube.com/watch?v=mKIOVwqgSXM) kinh điển của NES.
 
 <img src="res/demo.png" alt="drawing" width="400"/>
