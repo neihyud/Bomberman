@@ -1,0 +1,36 @@
+1 13 31
+###############################
+#p    ** *  1 *   b  * * *    #
+# #*# # # # #*#*# # # #*#*#*# #
+# * #  s  ***  *   1  *   * * #
+# #*# # # #*# # #*#*# # # # #*#
+#f   *       **  *  *    2    #
+# # # # # # # # # #*# #*# # #*#
+#*  *  2   *  *      *   *    #
+# # #F# #*# #x# #*#*# #*# #*# #
+#*    **  *       *      1   *#
+# #*# # #D# # # #*# # #s# #*# #
+#  *     1  *   *  *       q  #
+###############################
+
+
+# - Wall
+* - Brick
+x - Portal
+
+p - Player1
+q - Player2
+1 - Balloon
+2 - Oneal
+3 - Doll
+4 - Minvo
+5 - Kondoria
+
+
+b - Bomb Item
+B - BombPass Item
+f - Flame Item
+F - FlamePass Item
+s - Speed Item
+W - WallPass Item
+D - Detonator Item
